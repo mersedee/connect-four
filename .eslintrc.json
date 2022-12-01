@@ -20,6 +20,7 @@
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
         "indent": ["error", 2],
         "react/prop-types": 0,
-        "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }]
+        "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+        "react/no-array-index-key": 0
     }
 }
